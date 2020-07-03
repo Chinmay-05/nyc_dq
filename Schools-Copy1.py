@@ -282,12 +282,6 @@ combined['ap_per'] = combined['AP Test Takers '] / combined['total_enrollment']
 combined.plot.scatter('ap_per', 'sat_score')
 
 
-# In[36]:
-
-
-combined.head()
-
-
 # In[ ]:
 
 
